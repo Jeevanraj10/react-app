@@ -21,11 +21,18 @@
 .App-intro {
   font-size: large;
 }
-.btn {
+/* .btn {
   height: 30px;
   background-color: darkslateblue;
   text-align: center;
   color: antiquewhite;
+} */
+
+.red {
+  color: red;
+}
+.bold {
+  font-weight: bold;
 }
 @keyframes App-logo-spin {
   from {
